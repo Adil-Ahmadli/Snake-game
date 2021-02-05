@@ -7,7 +7,7 @@ To draw grids uncomment drawGrid() function in the  144th line.
 
 By changing  value of argument of clock.tick() function in the 187th line, you can set how many frames will be rendered per second.
 
-Math,random, pygame and tkinter modules must be installed to run the game. Download code, open the terminal, go the directory where it was downloaded, write *python3 snake.py*.
+Download code, open the terminal, go the directory where it was downloaded, write *python3 snake.py*.
 
 Have a fun :D
 
